@@ -7,7 +7,7 @@
 * Crie um Card para um perfil de usuário, utilize frontendMentor.
 * Crie uma página geradora de conselhos, utilize frontendMentor
 * Faça um menu de navegação utlizando o conceito de FlexBox.
-* Crie alguns cards contendo imagens com titulos e descrição, utilize conceito de flexBox.
+* Crie alguns cards contendo imagens com titulos e descrição, utilize conceitos de flexBox.
 
 ## Maior dificuldade:
 * Aplicar o flexbox
