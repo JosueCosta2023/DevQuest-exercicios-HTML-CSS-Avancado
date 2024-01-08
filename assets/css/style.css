@@ -82,6 +82,10 @@ body .container .container-list .atividade-link{
     font-weight: bold;
     letter-spacing: 2px;
 }
+body .container .container-list .atividade-link:hover{
+    background-color: #edd402;
+    color:#fff;
+}
 
 body .container .content-itens li{
     margin-bottom: 10px;
