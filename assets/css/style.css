@@ -5,7 +5,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #e3b5b8;
+    background-color: #fbc7b9
 }
 
 body .container{
@@ -23,7 +23,7 @@ body .container .content-title{
     text-align: center;
     color: #fff;
     font-weight: bold;
-    background-color: #a8cac9;
+    background-color: #edd402;
     padding: 20px;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
@@ -37,7 +37,7 @@ body .container .content-itens{
 
 body .container .linkHome{
     width: 100%;
-    background-color: #e3b5b8;
+    background-color: #fbc7b9;
     display: block;
     text-align: center;
     padding: 20px;
@@ -53,13 +53,34 @@ body .container .objetivo{
     width: 100%;
     padding: 10px 30px;
     text-align: justify;
-    background-color: #a8cac977;
+    background-color: #edd5028e;
     color: #010101a6;
 }
 
 body .container .objetivo p{
     font-size: 18px;
     font-weight: bold;
+}
+body .container .container-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body .container .container-list .atividade-link{
+    width: 90%;
+    height: 60px;
+    display: block;
+    background-color: #fbc7b9;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #010101a6;
+    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 body .container .content-itens li{
@@ -72,7 +93,7 @@ body .container .content-itens li a{
     display: block;
     height: 60px;
     text-align: center;
-    background-color: #a8cac9;
+    background-color: #edd402;
     border-radius: 10px;
     font-weight: bold;
     font-size: 20px;
@@ -83,10 +104,9 @@ body .container .content-itens li a{
 }
 
 body .container .content-itens li a:hover{
-    background-color: #e3b5b8;
+    background-color: #fbc7b9;
     color: #000;
 }
-
 
 .container-list{
     width: 90%;
@@ -131,5 +151,5 @@ body .container .content-itens li a:hover{
 }
 
 .container-list .paragrafo.colorido{
-    background-color: #F0CCE2;
+    background-color: #fbc7b9;
 }
