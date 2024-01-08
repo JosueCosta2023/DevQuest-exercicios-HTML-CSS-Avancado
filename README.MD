@@ -1,8 +1,8 @@
-# DevQuest - HTML & CSS ⭐
+# DevQuest - HTML & CSS ⭐⭐
 ## Quest - Página de exercícios módulos avançados
 ### [Deploy]()
 
-# Desafio: Centralizar todos o sexercicios propóstos
+# Desafio: Centralizar todos o exercícios propóstos
 ## Objetivos:
 * Crie um Card para um perfil de usuário, utilize frontendMentor.
 * Crie uma página geradora de conselhos, utilize frontendMentor
